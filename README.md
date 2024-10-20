@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kelwoi
 - 👀 I’m interested in game develop
-- 🌱 I’m currently learning python, HTML, CSS
+- 🌱 I’m currently learning с++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
 - 😄 Pronouns: He/Him
